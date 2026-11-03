@@ -1,5 +1,5 @@
 ---
-title: Welcome to my first blog!
+Welcome to my first blog!
 ---
 Learning repository progress
 ---
